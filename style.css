@@ -1,0 +1,39 @@
+body{
+    text-align: center;
+}
+#start{
+    background: linear-gradient(#03fc98 0% , #03cffc 100%)
+}
+#heading{
+    font-family: 'Ephesis', cursive;
+}
+#heading-year{
+    font-family: 'Comic Neue', cursive;
+}
+#heading-date{
+    font-family: 'Josefin Sans', sans-serif;
+}
+#first-img{
+    width: 600px;
+    height: 400px;
+    margin-bottom: 10px;
+}
+#mycarousel {
+    background-color: firebrick;
+}
+#second img {
+    border-style: groove;
+    border-color: black;
+    border-width: 5px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 350px;
+}
+#second h2 {
+    color: white;
+}
+#second p {
+color: black;
+margin-top: 10px;
+margin-bottom: 10px;
+}
